@@ -1,0 +1,21 @@
+{
+  "name": "@saadulwahab/no-guessing-game",
+  "version": "1.0.2",
+  "description": "A basic number guessing game for beginners.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@saadulwahab/no-guessing-game": "^1.0.2",
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  }
+}
